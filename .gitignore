@@ -1,0 +1,5 @@
+# Игноры дублируются в .gitignore, .dockerignore
+
+.idea
+*.iml
+target
